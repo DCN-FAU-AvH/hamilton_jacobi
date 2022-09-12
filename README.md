@@ -3,7 +3,11 @@ Our goal here is to study the inverse design problem associated to Hamilton Jaco
 
 $$ \partial_t u + H(\nabla_x u) = 0 $$
 
-starting from an initial condition $u_0\in C^{0,1}(\mathbb{R}^n)$ and for a given superlinear convex Hamiltonian $H: \mathbb{R}^n\rightarrow\mathbb{R}$. 
+with initial condition $u(0,\cdot) = u_0\in C^{0,1}(\mathbb{R}^n)$. Here,  $H: \mathbb{R}^n\rightarrow\mathbb{R}$ is a given superlinear convex Hamiltonian. 
+
+<p align="center">
+<img src="https://github.com/DCN-FAU-AvH/hamilton_jacobi/blob/main/Icon.png" width="40%" height="40%" >
+</p>
 
 More precisely, for a given target function $u_T$ and a time horizon $T>0$, we want to construct all the 
 initial conditions $u_0$ such that the viscosity solution of (HJ) coincides with a target function $u_T$ at time $T$.
@@ -20,6 +24,6 @@ satisfying $S^+_{T} u_0= u(T, \cdot )$.
 
 ## Installation
 
-Run one of the files Example1, Example2, Example3, or Example4. 
+Run one of the files [Example1](https://github.com/DCN-FAU-AvH/hamilton_jacobi/blob/main/Example1.m), [Example2](https://github.com/DCN-FAU-AvH/hamilton_jacobi/blob/main/Example2.m), [Example3](https://github.com/DCN-FAU-AvH/hamilton_jacobi/blob/main/Example3.m), or [Example4](https://github.com/DCN-FAU-AvH/hamilton_jacobi/blob/main/Example4.m). 
 
-Example 1 requires Matlab's Statistics and Machine Learning Toolbox. 
+[Example 1](https://github.com/DCN-FAU-AvH/hamilton_jacobi/blob/main/Example1.m) requires Matlab's Statistics and Machine Learning Toolbox. 
