@@ -17,3 +17,9 @@ the function $S_T^+ u_0 = u(T, \cdot ) \in C^{0,1}(R^n)$, where $u$ is the visco
 
 The inverse design problem that we are considering is then reduced to, for $u_T$ and $T>0$ given, characterize all the initial conditions $u_0$ 
 satisfying $S^+_{T} u_0= u(T, \cdot )$.
+
+## Installation
+
+The files require Matlab's Statistics and Machine Learning Toolbox. 
+
+Run one of the files Example1, Example2, Example3, or Example4. 
