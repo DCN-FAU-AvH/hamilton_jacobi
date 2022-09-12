@@ -20,6 +20,6 @@ satisfying $S^+_{T} u_0= u(T, \cdot )$.
 
 ## Installation
 
-The files require Matlab's Statistics and Machine Learning Toolbox. 
-
 Run one of the files Example1, Example2, Example3, or Example4. 
+
+Example 1 requires Matlab's Statistics and Machine Learning Toolbox. 
